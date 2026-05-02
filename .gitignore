@@ -1,0 +1,24 @@
+# Dev tooling
+.claude/
+.specify/
+aidlc-docs/
+aidlc-reports/
+specs/
+
+node_modules/
+.next/
+out/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.db-journal
+.env
+.env.local
+*.log
+.DS_Store
+public/uploads/gpx/*.gpx
+public/uploads/*.jpg
+public/uploads/*.jpeg
+public/uploads/*.png
+public/uploads/*.gif
+public/uploads/*.webp
