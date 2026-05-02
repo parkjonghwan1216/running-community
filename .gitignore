@@ -5,6 +5,9 @@ aidlc-docs/
 aidlc-reports/
 specs/
 
+tsconfig.tsbuildinfo
+cookies.txt
+
 node_modules/
 .next/
 out/
